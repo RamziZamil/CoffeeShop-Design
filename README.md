@@ -4,7 +4,7 @@
 
 Welcome to **Ramzi Coffee**! a user-friendly website is designed to reflect the warmth and charm of our coffee shop while enhancing the online experience for our valued customers. Welcome to **Ramzi Coffee**.
 
-## **Main Pages **
+## **Main Pages**
 
 ### _1. Home Page_
 
